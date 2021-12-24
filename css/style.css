@@ -4,7 +4,10 @@
     
 }
  .container{
-    background-color: rgb(143, 128, 211); 
+    background-color: rgb(248, 197, 86); 
+    padding: 20px;
+    margin: left 100px;
+    margin-right 70px;
 }
 img {
     border: 1px solid #ddd;
@@ -26,7 +29,8 @@ img {
     overflow: hidden;
     padding: 10px 5px;
     word-break: normal;
+     }
+     body{
+        background:url(../images/white.jpeg)  
 
-
-
-  }
+     }
